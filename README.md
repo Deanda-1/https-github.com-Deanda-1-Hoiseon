@@ -1,10 +1,14 @@
-# <Horiseon Services>
+# Horiseon Services
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
+    My motivation was to learn how to create a workable assignment for a client that wanted to have something to showcase their company.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+    I wanted to learn how to create something that can be used not only to help a client but help any project that I may want to do.
 - What problem does it solve?
+    This solves the problem of how using the CSS and the HTML by actually creating the structure for each part of the CSS and HTML and makes it easier for me to create a web design for personal use.
 - What did you learn?
+    I learned that CSS stylesheet can provide more helpful and compliment in creating a web design by designing a title all the way to the footer allows the content to be designed in a way that can give an appearance that can be appealing to a client for future work and make it easier for people to want to look and explore what has been created.
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
